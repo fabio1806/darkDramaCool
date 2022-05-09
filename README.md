@@ -1,2 +1,2 @@
 # darkDramaCool
-Dark theme for DramaCool website
+Dark theme for [DramaCool](https://dramacool.ee/) website
