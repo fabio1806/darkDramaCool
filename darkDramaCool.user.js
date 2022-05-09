@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         DramaCool dark
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.0.1
 // @description  try to make it a bit darker
 // @author       Fabio1806
-// @match        *://*.dramacool.fo/*
-// @icon         https://dramacool.rs/favicon.png
+// @match        *://*.dramacool.ee/*
+// @icon         https://dramacool.ee/favicon.png
 // @grant        none
 // ==/UserScript==
 
